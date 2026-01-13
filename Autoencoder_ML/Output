@@ -1,0 +1,15 @@
+File Loaded. Total Messages: 179346
+Converting Hexadecimal data to Integers...
+
+Starting Training on Normal Traffic...
+Epoch [20/100], Loss: 0.900588
+Epoch [40/100], Loss: 0.644792
+Epoch [60/100], Loss: 0.428921
+Epoch [80/100], Loss: 0.334059
+Epoch [100/100], Loss: 0.275671
+
+--- System Monitoring Test ---
+Testing Normal Sample: ✅ Normal (Score: 0.1558)
+Testing Attack Sample: 🚨 ANOMALY DETECTED! (Score: 1.6762)
+
+Model and Scaler saved successfully! You can now use them for real-time detection.
